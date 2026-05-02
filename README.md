@@ -1,4 +1,4 @@
-# Assignment 8 Data Lookup with Dictonaries & Basic Aggregation. 
+# Assignment 8 Data Lookup with Dictonaries & Basic Aggregation
 - This repository contains my work for Assignment 8, where I created a Customer Management System using Python. 
 ## Files Included 
 - module08-assignment.py
